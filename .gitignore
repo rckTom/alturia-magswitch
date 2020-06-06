@@ -1,0 +1,6 @@
+*bak
+*.bak
+*-save.pro
+*-save.kicad-pcb
+
+gerber/

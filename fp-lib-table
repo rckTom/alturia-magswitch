@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name alturia-magswitch)(type KiCad)(uri ${KIPRJMOD}/alturia-magswitch.pretty)(options "")(descr ""))
+  (lib (name artwork)(type KiCad)(uri ${KIPRJMOD}/artwork)(options "")(descr ""))
+)

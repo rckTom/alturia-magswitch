@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name alturia-magswitch)(type Legacy)(uri ${KIPRJMOD}/alturia-magswitch.lib)(options "")(descr ""))
+)
