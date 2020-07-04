@@ -4,3 +4,7 @@
 *-save.kicad-pcb
 
 gerber/
+
+firmware/*.o
+firmware/*.hex
+firmware/*.elf
